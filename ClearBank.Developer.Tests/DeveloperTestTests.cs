@@ -47,8 +47,10 @@ namespace ClearBank.Developer.Tests
             var result = service.MakePayment(request);
             Assert.IsTrue(result.Success == false);
         }
-
+        /////////
         // should technically be valid test, however the payment service never returns true
+        /////////
+
         //[TestMethod]
         //public void PaymentBacs_BacsAllowed_AccountDefined_ReturnsTrue()
         //{
@@ -61,10 +63,16 @@ namespace ClearBank.Developer.Tests
         //    moq.CallBase = false;
         //    moq.Setup(x => x.Get(It.IsAny<MakePaymentRequest>())).Returns(account);
         //    PaymentService service = new PaymentService(moq.Object);
-       
+
         //    var result = service.MakePayment(request);
         //    Assert.IsTrue(result.Success == true);
         //}
+
+
+        /////////
+        // and so on and so forth...
+        /////////
+
 
     }
 }

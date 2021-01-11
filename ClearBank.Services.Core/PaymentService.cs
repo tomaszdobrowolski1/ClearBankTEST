@@ -17,7 +17,6 @@ namespace ClearBank.Services.Core
         private AccountFactory accountFactory { get; set; }
         public MakePaymentResult MakePayment(MakePaymentRequest request)
         {
-            // shouild be static/injectable but i'm unable to change signature and moq doesnt support static
             Account account = accountFactory.Get(request);
             var result = new MakePaymentResult();
 
@@ -33,6 +32,7 @@ namespace ClearBank.Services.Core
                         result.Success = false;
                     }
                     break;
+                    //missing success true?
 
                 case PaymentScheme.FasterPayments:
                     if (account == null)
@@ -48,7 +48,7 @@ namespace ClearBank.Services.Core
                         result.Success = false;
                     }
                     break;
-
+                    //missing success true?
                 case PaymentScheme.Chaps:
                     if (account == null)
                     {
@@ -63,6 +63,7 @@ namespace ClearBank.Services.Core
                         result.Success = false;
                     }
                     break;
+                    //missing success true?
             }
 
             if (result.Success)
