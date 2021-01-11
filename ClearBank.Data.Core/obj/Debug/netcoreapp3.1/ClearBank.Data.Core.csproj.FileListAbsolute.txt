@@ -1,0 +1,12 @@
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Data.Core\bin\Debug\netcoreapp3.1\ClearBank.Data.Core.deps.json
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Data.Core\bin\Debug\netcoreapp3.1\ClearBank.Data.Core.dll
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Data.Core\bin\Debug\netcoreapp3.1\ClearBank.Data.Core.pdb
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Data.Core\bin\Debug\netcoreapp3.1\ClearBank.Data.Models.dll
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Data.Core\bin\Debug\netcoreapp3.1\ClearBank.Data.Models.pdb
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Data.Core\obj\Debug\netcoreapp3.1\ClearBank.Data.Core.csprojAssemblyReference.cache
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Data.Core\obj\Debug\netcoreapp3.1\ClearBank.Data.Core.AssemblyInfoInputs.cache
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Data.Core\obj\Debug\netcoreapp3.1\ClearBank.Data.Core.AssemblyInfo.cs
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Data.Core\obj\Debug\netcoreapp3.1\ClearBank.Data.Core.csproj.CoreCompileInputs.cache
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Data.Core\obj\Debug\netcoreapp3.1\ClearBank.Data.Core.csproj.CopyComplete
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Data.Core\obj\Debug\netcoreapp3.1\ClearBank.Data.Core.dll
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Data.Core\obj\Debug\netcoreapp3.1\ClearBank.Data.Core.pdb

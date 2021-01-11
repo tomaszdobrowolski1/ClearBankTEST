@@ -1,0 +1,9 @@
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Services.Models\bin\Debug\netcoreapp3.1\ClearBank.Services.Models.deps.json
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Services.Models\bin\Debug\netcoreapp3.1\ClearBank.Services.Models.dll
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Services.Models\bin\Debug\netcoreapp3.1\ClearBank.Services.Models.pdb
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Services.Models\obj\Debug\netcoreapp3.1\ClearBank.Services.Models.AssemblyInfoInputs.cache
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Services.Models\obj\Debug\netcoreapp3.1\ClearBank.Services.Models.AssemblyInfo.cs
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Services.Models\obj\Debug\netcoreapp3.1\ClearBank.Services.Models.csproj.CoreCompileInputs.cache
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Services.Models\obj\Debug\netcoreapp3.1\ClearBank.Services.Models.dll
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Services.Models\obj\Debug\netcoreapp3.1\ClearBank.Services.Models.pdb
+C:\Users\tdobr\OneDrive\Documents\test\ClearBank.Services.Models\obj\Debug\netcoreapp3.1\ClearBank.Services.Models.csprojAssemblyReference.cache

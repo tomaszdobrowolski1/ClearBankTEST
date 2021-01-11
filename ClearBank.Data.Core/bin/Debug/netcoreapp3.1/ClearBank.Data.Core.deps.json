@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ClearBank.Data.Core/1.0.0": {
+        "dependencies": {
+          "ClearBank.Data.Models": "1.0.0"
+        },
+        "runtime": {
+          "ClearBank.Data.Core.dll": {}
+        }
+      },
+      "ClearBank.Data.Models/1.0.0": {
+        "runtime": {
+          "ClearBank.Data.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClearBank.Data.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClearBank.Data.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

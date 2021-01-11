@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClearBank.Data.Core\ClearBank.Data.Core.csproj" />
+    <ProjectReference Include="..\ClearBank.Data.Models\ClearBank.Data.Models.csproj" />
+    <ProjectReference Include="..\ClearBank.Services.Models\ClearBank.Services.Models.csproj" />
+  </ItemGroup>
+
+</Project>
